@@ -6,6 +6,11 @@ created_date: 2024-08-12
 staff:
     - name: Kara Handren
       link: https://library.utoronto.ca/staff/kara-handren
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 permalink: "/"  #! Remove this if not the homepage
 ---
 
