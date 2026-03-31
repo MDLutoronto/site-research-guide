@@ -28,8 +28,8 @@ General Resources
 
 ### Images and Videos
 
-* [Archivision Collection in JSTOR](https://www-jstor-org.myaccess.library.utoronto.ca/action/showAdvancedSearch)
-* [OnArchitecture](https://www-onarchitecture-com.myaccess.library.utoronto.ca/)
+* [Archivision Collection in JSTOR](https://go.openathens.net/redirector/utoronto.ca?url=https://www.jstor.org/action/showAdvancedSearch)
+* [OnArchitecture](https://go.openathens.net/redirector/utoronto.ca?url=https://www.onarchitecture.com/)
 
 ### Indigenous Resources
 
@@ -212,7 +212,7 @@ Demographic Statistics
 
 * [General guide to numeric data](https://mdl.library.utoronto.ca/collections/numeric-data)
 * [Canadian census data by year](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada)
-* [CHASS Census Analyser](https://dc-chass-utoronto-ca.myaccess.library.utoronto.ca/census/) and [Census Analyser Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/extractingdownloading-data-using-chass-canadian-census-analyser)
+* [CHASS Census Analyser](https://dc1.chass.utoronto.ca/census/index.html) and [Census Analyser Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/extractingdownloading-data-using-chass-canadian-census-analyser)
 * [Statistics Canada data tables for 2021](https://www12.statcan.gc.ca/datasets/index-eng.cfm?Temporal=2021)
 * Feel free to [request help](https://mdl.library.utoronto.ca/about/contact-form) from the Map & Data Library
 
