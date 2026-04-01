@@ -1,7 +1,16 @@
 ---
 title: "Guide for Site Research"
 layout: "home"
-description: ""
+description: "Site research involves the comprehensive analysis of a location's physical, cultural, and environmental characteristics. This process encompasses assessing topography, climate, zoning regulations, and existing infrastructure, as well as understanding the historical and social context of the site. Other terms often used interchangeably with site research include site analysis, site assessment, and contextual analysis."
+created_date: 2024-08-12
+staff:
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -24,8 +33,8 @@ General Resources
 
 ### Images and Videos
 
-* [Archivision Collection in JSTOR](https://www-jstor-org.myaccess.library.utoronto.ca/action/showAdvancedSearch)
-* [OnArchitecture](https://www-onarchitecture-com.myaccess.library.utoronto.ca/)
+* [Archivision Collection in JSTOR](https://go.openathens.net/redirector/utoronto.ca?url=https://www.jstor.org/action/showAdvancedSearch)
+* [OnArchitecture](https://go.openathens.net/redirector/utoronto.ca?url=https://www.onarchitecture.com/)
 
 ### Indigenous Resources
 
@@ -51,7 +60,7 @@ Mapping Resources
 
 * [How to find and request maps](https://mdl.library.utoronto.ca/technology/tutorials/finding-paper-maps-and-atlases)
 * How to read maps: see Esri's [Map Use: Reading, Analysis, Interpretation](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/blpd0s/alma991106048383706196)
-* [Map request form](https://mdl.library.utoronto.ca/map-retrieval-request) \- note that you can request specific items from LibrarySearch if signed in, and you can use this form to make general requests (e.g., "Maps of Toronto showing High Park")
+* [Map request form](https://mdl.library.utoronto.ca/map-retrieval-request) - note that you can request specific items from LibrarySearch if signed in, and you can use this form to make general requests (e.g., "Maps of Toronto showing High Park")
 
 ### Toronto Property Data Maps
 
@@ -65,7 +74,7 @@ Mapping Resources
 	+ [NTS sheets, 1:25 000 scale](https://geo2.scholarsportal.info/#r/details/_uri@=847590539&_add:true)
 	+ [NTS sheets, 1:50 000 scale](https://geo2.scholarsportal.info/#r/details/_uri@=2573888891&_add:true_nozoom:true)
 	+ [NTS sheets, 1:63 360 scale](https://geo2.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
-	+ Additional [older topographic sheets](https://mdl.library.utoronto.ca/topographic-maps-0#Canada) are available at the Map \& Data Library; please use the [request form](https://mdl.library.utoronto.ca/about/contact-form)
+	+ Additional [older topographic sheets](https://mdl.library.utoronto.ca/topographic-maps-0#Canada) are available at the Map & Data Library; please use the [request form](https://mdl.library.utoronto.ca/about/contact-form)
 * Modern sheets
 	+ Go to [GeoGratis](https://geogratis.cgdi.gc.ca/ )
 	+ Click on "Geospatial Product Index"
@@ -75,7 +84,7 @@ Mapping Resources
 
 * [Scanned maps from the University of Toronto](https://collections.library.utoronto.ca/repository/mdl) (note these are a small fraction of our total maps)
 * [City of Toronto: Find the History of Your House](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/using-the-archives/research-by-topic/find-the-history-of-your-house/)
-* [Archives of Ontario RG1\-100 Patent Plans](https://www.archives.gov.on.ca/en/about/patent-plans.aspx)
+* [Archives of Ontario RG1-100 Patent Plans](https://www.archives.gov.on.ca/en/about/patent-plans.aspx)
 	+ See also this [searchable listing of Ontario Patent Plans](https://maps.library.utoronto.ca/datapub/Ontario/PatentPlans/)
 	+ And this [web map showing the location and coverage of Ontario Patent Plans](https://maps.library.utoronto.ca/webmaps/PatentPlans.html)
 * [Historical Maps of Toronto](https://oldtorontomaps.blogspot.com/p/index-of-maps.html)
@@ -83,21 +92,21 @@ Mapping Resources
 * [JCB Library](https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1)
 * [OldMapsOnline](https://www.oldmapsonline.org/)
 * [Barry Lawrence Ruderman, Antique Maps Inc.](https://www.raremaps.com/)
-* [Alexandre Antique Prints, Maps \& Books](https://www.alexandremaps.com/)
+* [Alexandre Antique Prints, Maps & Books](https://www.alexandremaps.com/)
 
 ### Aerial Photos
 
-* [Map \& Data Library's air photo page](https://mdl.library.utoronto.ca/collections/air-photos)
-* [Map \& Data Library's complete air photo listing](https://mdl.library.utoronto.ca/air-photo-collection-listing)
-* [City of Toronto Orthoimagery (2009\-2022\)](https://geo2.scholarsportal.info/#r/details/_uri@=598628498)
+* [Map & Data Library's air photo page](https://mdl.library.utoronto.ca/collections/air-photos)
+* [Map & Data Library's complete air photo listing](https://mdl.library.utoronto.ca/air-photo-collection-listing)
+* [City of Toronto Orthoimagery (2009-2022)](https://geo2.scholarsportal.info/#r/details/_uri@=598628498)
 	+ For 2023 and 2024 orthoimagery, please [contact us](https://mdl.library.utoronto.ca/about/contact-form), specifying your area of interest
-* [City of Toronto historic aerial photographs (1947\-1992\)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
+* [City of Toronto historic aerial photographs (1947-1992)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
 
 ### Atlases
 
 * County map atlases (townships and counties/districts), e.g., [Illustrated historical atlas of York County, Ontario](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106495926606196)
 * [Historical Atlas of Toronto](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106157521206196)
-* [Mapping Toronto's First Century, 1787\-1884](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106666015006196)
+* [Mapping Toronto's First Century, 1787-1884](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106666015006196)
 * [Ontario's History in Maps](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106150975806196)
 * [Historical Atlas of Canada](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105998877306196) and the <Atlas historique du Canada>
 
@@ -109,15 +118,15 @@ Mapping Resources
 
 ### Fire Insurance Plans
 
-* [Map \& Data Library's general page for Fire Insurance Plans](https://mdl.library.utoronto.ca/collections/maps-atlases/fire-insurance-plans) (click the links in the bullet points for scanned and georeferenced maps for Toronto)
-* [U of T's Fire Insurance Plan complete listing](https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries) (Canada\-wide)
+* [Map & Data Library's general page for Fire Insurance Plans](https://mdl.library.utoronto.ca/collections/maps-atlases/fire-insurance-plans) (click the links in the bullet points for scanned and georeferenced maps for Toronto)
+* [U of T's Fire Insurance Plan complete listing](https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries) (Canada-wide)
 * [City of Toronto's Fire Insurance Plan listing](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/fire-insurance-plans/)
 * [Toronto Public Library's Fire Insurance Plan listing](https://www.torontopubliclibrary.ca/history-genealogy/lh-toronto-fire-insurance-plans.jsp)
 * [Copyright holders for most Canadian fire insurance plans](https://optaintel.ca/solutions/enviroscan/products--pricing.html) (for publishing inquiries and additional plans)
 
 ### Web Mapping Projects
 
-* [Ontario County Map Project](https://mdl.library.utoronto.ca/collections/mdl-projects/ontario-county-map) (nineteenth\-century maps of Southern Ontario, with names of owners of specific plots)
+* [Ontario County Map Project](https://mdl.library.utoronto.ca/collections/mdl-projects/ontario-county-map) (nineteenth-century maps of Southern Ontario, with names of owners of specific plots)
 * [Don Valley Historical Mapping Project](https://mdl.library.utoronto.ca/collections/mdl-projects/don-valley) (historical businesses along the Don River)
 * [Lost Rivers of Toronto](https://www.lostrivers.ca/disappearing.html) and [Lost River Walks](https://lostrivers.ca/)
 
@@ -131,7 +140,7 @@ Geospatial Resources
 
 ### Land Use, zoning, and land cover
 
-* [Zoning by\-law](https://open.toronto.ca/dataset/zoning-by-law/ )
+* [Zoning by-law](https://open.toronto.ca/dataset/zoning-by-law/ )
 * [Site and Area Specific Policies](https://open.toronto.ca/dataset/site-and-area-specific-policies/ )
 * [Land Cover](https://open.toronto.ca/dataset/forest-and-land-cover/ ) (City of Toronto)
 * [Land Cover (Toronto and Region Conservation Authority)](https://trca-camaps.opendata.arcgis.com/datasets/dcd051e55129449a8826ad25b892ceda_0/explore )
@@ -208,11 +217,11 @@ Demographic Statistics
 
 * [General guide to numeric data](https://mdl.library.utoronto.ca/collections/numeric-data)
 * [Canadian census data by year](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada)
-* [CHASS Census Analyser](https://dc-chass-utoronto-ca.myaccess.library.utoronto.ca/census/) and [Census Analyser Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/extractingdownloading-data-using-chass-canadian-census-analyser)
+* [CHASS Census Analyser](https://dc1.chass.utoronto.ca/census/index.html) and [Census Analyser Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/extractingdownloading-data-using-chass-canadian-census-analyser)
 * [Statistics Canada data tables for 2021](https://www12.statcan.gc.ca/datasets/index-eng.cfm?Temporal=2021)
-* Feel free to [request help](https://mdl.library.utoronto.ca/about/contact-form) from the Map \& Data Library
+* Feel free to [request help](https://mdl.library.utoronto.ca/about/contact-form) from the Map & Data Library
 
-### Census Records (individuals or households from 1825\-1926/1931\)
+### Census Records (individuals or households from 1825-1926/1931)
 
 * [Census records and guides](https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/censuses/Pages/censuses.aspx)
 * [Census search](https://recherche-collection-search.bac-lac.gc.ca/eng/Census/Index)
@@ -222,4 +231,4 @@ Other Guides and Resources
 
 * [Exporting GIS to CAD format](https://mdl.library.utoronto.ca/technology/tutorials/converting-gis-data-autocad-arcgis-pro) (Rhino; Illustrator; AutoCAD)
 
-Discipline: [Architecture, Landscape \& Design](/discipline/architecture-landscape-design) \| Technique: [Searching for maps and data](/technique/searching-maps-and-data) \| Data Format: [Paper maps](/data-format/paper-maps), [Statistics](/data-format/statistics), [Vector](/data-format/vector)**Date Created:** 2024\-08\-12**Updated:** 2025\-11\-06
+Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/discipline/architecture-landscape-design) | Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Data Format: [Paper maps](https://mdl.library.utoronto.ca/data-format/paper-maps), [Statistics](https://mdl.library.utoronto.ca/data-format/statistics), [Vector](https://mdl.library.utoronto.ca/data-format/vector)
