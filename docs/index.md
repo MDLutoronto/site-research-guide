@@ -230,5 +230,3 @@ Other Guides and Resources
 --------------------------
 
 * [Exporting GIS to CAD format](https://mdl.library.utoronto.ca/technology/tutorials/converting-gis-data-autocad-arcgis-pro) (Rhino; Illustrator; AutoCAD)
-
-Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/discipline/architecture-landscape-design) | Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Data Format: [Paper maps](https://mdl.library.utoronto.ca/data-format/paper-maps), [Statistics](https://mdl.library.utoronto.ca/data-format/statistics), [Vector](https://mdl.library.utoronto.ca/data-format/vector)
