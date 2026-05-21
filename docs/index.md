@@ -4,8 +4,11 @@ layout: "home"
 description: "Site research involves the comprehensive analysis of a location's physical, cultural, and environmental characteristics. This process encompasses assessing topography, climate, zoning regulations, and existing infrastructure, as well as understanding the historical and social context of the site. Other terms often used interchangeably with site research include site analysis, site assessment, and contextual analysis."
 created_date: 2024-08-12
 staff:
-    - name: Kara Handren
-      link: https://library.utoronto.ca/staff/kara-handren
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+    - name: Cathryn Copper
 maintainer:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white
@@ -208,7 +211,7 @@ Geospatial Resources
 
 * [OpenStreetMap](https://openstreetmap.org/)
 * [Download geospatial data from OpenStreetMap (Geofabrik)](https://download.geofabrik.de/)
-* [Guide to using OpenStreetMap data in QGIS](https://mdl.library.utoronto.ca/tutorials/exporting-map-data-osm-qgis)
+* [Guide to using OpenStreetMap data in QGIS](https://mdlutoronto.github.io/qgis-exporting-data-openstreetmap/)
 
 Demographic Statistics
 ----------------------
@@ -217,7 +220,7 @@ Demographic Statistics
 
 * [General guide to numeric data](https://mdl.library.utoronto.ca/collections/numeric-data)
 * [Canadian census data by year](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada)
-* [CHASS Census Analyser](https://dc1.chass.utoronto.ca/census/index.html) and [Census Analyser Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/extractingdownloading-data-using-chass-canadian-census-analyser)
+* [CHASS Census Analyser](https://dc1.chass.utoronto.ca/census/index.html) and [Census Analyser Tutorial](https://mdlutoronto.github.io/chass-extracting-downloading-data-canadian-census/)
 * [Statistics Canada data tables for 2021](https://www12.statcan.gc.ca/datasets/index-eng.cfm?Temporal=2021)
 * Feel free to [request help](https://mdl.library.utoronto.ca/about/contact-form) from the Map & Data Library
 
@@ -229,6 +232,6 @@ Demographic Statistics
 Other Guides and Resources
 --------------------------
 
-* [Exporting GIS to CAD format](https://mdl.library.utoronto.ca/technology/tutorials/converting-gis-data-autocad-arcgis-pro) (Rhino; Illustrator; AutoCAD)
+* [Exporting GIS to CAD format](https://mdlutoronto.github.io/arcgis-pro-converting-gis-data-to-autocad/) (Rhino; Illustrator; AutoCAD)
 
-Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | Data Format: [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps), [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Data Format:** [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps), [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
