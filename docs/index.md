@@ -9,6 +9,7 @@ staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
     - name: Cathryn Copper
+      link: https://library.utoronto.ca/staff/cathryn-copper
 maintainer:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white
@@ -68,7 +69,7 @@ Mapping Resources
 ### Toronto Property Data Maps
 
 * [Print Property Data Maps](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,%22property%20data%20map%22,AND&tab=LibraryCatalog&search_scope=DATAMAPGIS&sortby=date_a&vid=01UTORONTO_INST:UTORONTO&mode=advanced&offset=0) (1962 to 2010, various years)
-* [Digital Property Data Maps](https://mdl.library.utoronto.ca/data-city-toronto-mdl-collection) (scroll down to "Property Data Maps index")
+* [Digital Property Data Maps](https://mdl-data.library.utoronto.ca/items/show/1808)
 
 ### National Topographic System (NTS)
 
@@ -101,8 +102,7 @@ Mapping Resources
 
 * [Map & Data Library's air photo page](https://mdl.library.utoronto.ca/collections/air-photos)
 * [Map & Data Library's complete air photo listing](https://mdl.library.utoronto.ca/air-photo-collection-listing)
-* [City of Toronto Orthoimagery (2009-2022)](https://geo2.scholarsportal.info/#r/details/_uri@=598628498)
-	+ For 2023 and 2024 orthoimagery, please [contact us](https://mdl.library.utoronto.ca/about/contact-form), specifying your area of interest
+* [City of Toronto Orthoimagery (2009-2024)](https://mdl-data.library.utoronto.ca/items/show/1140)
 * [City of Toronto historic aerial photographs (1947-1992)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
 
 ### Atlases
@@ -121,10 +121,11 @@ Mapping Resources
 
 ### Fire Insurance Plans
 
-* [Map & Data Library's general page for Fire Insurance Plans](https://mdl.library.utoronto.ca/collections/maps-atlases/fire-insurance-plans) (click the links in the bullet points for scanned and georeferenced maps for Toronto)
-* [U of T's Fire Insurance Plan complete listing](https://mdl.library.utoronto.ca/fire-insurance-plansmaps-university-toronto-libraries) (Canada-wide)
+* [Map & Data Library's general page for Fire Insurance Plans](https://mdl.library.utoronto.ca/collections/maps-atlases/fire-insurance-plans)
+	+ [Scanned and georeferenced Fire Insurance Plans and Atlases](https://mdl-data.library.utoronto.ca/items/show/1813)
+* [U of T's Fire Insurance Plan complete listing](https://github.com/MDLutoronto/collections/blob/main/Fire_Insurance_Plans.csv) (Canada-wide)
 * [City of Toronto's Fire Insurance Plan listing](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/fire-insurance-plans/)
-* [Toronto Public Library's Fire Insurance Plan listing](https://www.torontopubliclibrary.ca/history-genealogy/lh-toronto-fire-insurance-plans.jsp)
+* [Toronto Public Library's Fire Insurance Plan listing](https://tpl.ca/downloads-ebooks/history-genealogy/fire-insurance-plans/)
 * [Copyright holders for most Canadian fire insurance plans](https://optaintel.ca/solutions/enviroscan/products--pricing.html) (for publishing inquiries and additional plans)
 
 ### Web Mapping Projects
@@ -157,14 +158,14 @@ Geospatial Resources
 
 #### Vegetation
 
-* [ELC (Ecological Land Classification)](https://trca-camaps.opendata.arcgis.com/maps/5703fd15fbee415db5e783d3ee07f7f5 )
+* [ELC (Ecological Land Classification)](https://trca-camaps.opendata.arcgis.com/datasets/elc-trca-1/about)
 
 #### Protected Areas – Ravine Bylaw Areas, ESAs, NHIC
 
 * [Environmentally Significant Areas](https://open.toronto.ca/dataset/environmentally-significant-areas/)
 * [Natural Heritage System](https://open.toronto.ca/dataset/natural-heritage-system/)
 * [Ravine Bylaw Areas](https://open.toronto.ca/dataset/ravine-natural-feature-protection-area/)
-* [ANSI (Area of Natural and Scientific Interest)](https://trca-camaps.opendata.arcgis.com/maps/5703fd15fbee415db5e783d3ee07f7f5)
+* [ANSI (Area of Natural and Scientific Interest)](https://geohub.lio.gov.on.ca/datasets/areas-of-natural-and-scientific-interest-ansi/about)
 
 ### Infrastructure
 
@@ -191,13 +192,13 @@ Geospatial Resources
 
 ### Hazards
 
-* [Flood lines](https://trca-camaps.opendata.arcgis.com/datasets/16356f40517d4e32aca9c86b257198e0_1/explore )
+* [Flood lines](https://trca-camaps.opendata.arcgis.com/datasets/camaps::floodline-trca-line/about)
 
 ### Topographic
 
 #### Contour Lines
 
-* [Toronto Contour Lines 1m](https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-contours-1-metre-intervals )
+* [Toronto Contour Lines 1m](https://mdl-data.library.utoronto.ca/items/show/id/927)
 
 #### Elevation
 
