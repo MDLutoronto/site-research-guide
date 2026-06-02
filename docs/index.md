@@ -123,7 +123,7 @@ Mapping Resources
 
 * [Map & Data Library's general page for Fire Insurance Plans](https://mdl.library.utoronto.ca/collections/maps-atlases/fire-insurance-plans)
 	+ [Scanned and georeferenced Fire Insurance Plans and Atlases](https://mdl-data.library.utoronto.ca/items/show/1813)
-* [U of T's Fire Insurance Plan complete listing](https://github.com/MDLutoronto/collections/blob/main/Fire_Insurance_Plans.csv) (Canada-wide)
+* [U of T's Fire Insurance Plan complete listing](https://mdlutoronto.github.io/collections/fip/) (Canada-wide)
 * [City of Toronto's Fire Insurance Plan listing](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/fire-insurance-plans/)
 * [Toronto Public Library's Fire Insurance Plan listing](https://tpl.ca/downloads-ebooks/history-genealogy/fire-insurance-plans/)
 * [Copyright holders for most Canadian fire insurance plans](https://optaintel.ca/solutions/enviroscan/products--pricing.html) (for publishing inquiries and additional plans)
