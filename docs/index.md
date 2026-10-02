@@ -78,7 +78,7 @@ Mapping Resources
 	+ [NTS sheets, 1:25 000 scale](https://geo2.scholarsportal.info/#r/details/_uri@=847590539&_add:true)
 	+ [NTS sheets, 1:50 000 scale](https://geo2.scholarsportal.info/#r/details/_uri@=2573888891&_add:true_nozoom:true)
 	+ [NTS sheets, 1:63 360 scale](https://geo2.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
-	+ Additional [older topographic sheets](https://mdl.library.utoronto.ca/topographic-maps-0#Canada) are available at the Map & Data Library; please use the [request form](https://mdl.library.utoronto.ca/about/contact-form)
+	+ Additional [older topographic sheets](https://mdl.library.utoronto.ca/topographic-maps-0#Canada) are available at the Map & Data Library; please use the [request form](https://library.utoronto.ca/contact-us/data-maps)
 * Modern sheets
 	+ Go to [GeoGratis](https://geogratis.cgdi.gc.ca/ )
 	+ Click on "Geospatial Product Index"
@@ -223,7 +223,7 @@ Demographic Statistics
 * [Canadian census data by year](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada)
 * [CHASS Census Analyser](https://dc1.chass.utoronto.ca/census/index.html) and [Census Analyser Tutorial](https://mdlutoronto.github.io/chass-extracting-downloading-data-canadian-census/)
 * [Statistics Canada data tables for 2021](https://www12.statcan.gc.ca/datasets/index-eng.cfm?Temporal=2021)
-* Feel free to [request help](https://mdl.library.utoronto.ca/about/contact-form) from the Map & Data Library
+* Feel free to [request help](https://library.utoronto.ca/contact-us/data-maps) from the Map & Data Library
 
 ### Census Records (individuals or households from 1825-1926/1931)
 
