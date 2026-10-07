@@ -62,9 +62,9 @@ Mapping Resources
 
 ### General map resources
 
-* [How to find and request maps](https://mdl.library.utoronto.ca/technology/tutorials/finding-paper-maps-and-atlases)
+* [How to find and request maps](https://library.utoronto.ca/collection/maps-atlases-air-photos)
 * How to read maps: see Esri's [Map Use: Reading, Analysis, Interpretation](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/blpd0s/alma991106048383706196)
-* [Map request form](https://mdl.library.utoronto.ca/map-retrieval-request) - note that you can request specific items from LibrarySearch if signed in, and you can use this form to make general requests (e.g., "Maps of Toronto showing High Park")
+* [Map request form](https://library.utoronto.ca/contact-us/request/maps) - note that you can request specific items from LibrarySearch if signed in, and you can use this form to make general requests (e.g., "Maps of Toronto showing High Park")
 
 ### Toronto Property Data Maps
 
@@ -78,7 +78,7 @@ Mapping Resources
 	+ [NTS sheets, 1:25 000 scale](https://geo2.scholarsportal.info/#r/details/_uri@=847590539&_add:true)
 	+ [NTS sheets, 1:50 000 scale](https://geo2.scholarsportal.info/#r/details/_uri@=2573888891&_add:true_nozoom:true)
 	+ [NTS sheets, 1:63 360 scale](https://geo2.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
-	+ Additional [older topographic sheets](https://mdl.library.utoronto.ca/topographic-maps-0#Canada) are available at the Map & Data Library; please use the [request form](https://library.utoronto.ca/contact-us/data-maps)
+	+ Additional [older topographic sheets](https://library.utoronto.ca/collection/topographic-maps) are available at the Map & Data Library; please use the [request form](https://library.utoronto.ca/contact-us/data-maps)
 * Modern sheets
 	+ Go to [GeoGratis](https://geogratis.cgdi.gc.ca/ )
 	+ Click on "Geospatial Product Index"
@@ -100,8 +100,8 @@ Mapping Resources
 
 ### Aerial Photos
 
-* [Map & Data Library's air photo page](https://mdl.library.utoronto.ca/collections/air-photos)
-* [Map & Data Library's complete air photo listing](https://mdl.library.utoronto.ca/air-photo-collection-listing)
+* [Map & Data Library's air photo page](https://library.utoronto.ca/collection/air-photos)
+* [Map & Data Library's complete air photo listing](https://library.utoronto.ca/collection/air-photos)
 * [City of Toronto Orthoimagery (2009-2024)](https://mdl-data.library.utoronto.ca/items/show/1140)
 * [City of Toronto historic aerial photographs (1947-1992)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
 
@@ -121,7 +121,7 @@ Mapping Resources
 
 ### Fire Insurance Plans
 
-* [Map & Data Library's general page for Fire Insurance Plans](https://mdl.library.utoronto.ca/collections/maps-atlases/fire-insurance-plans)
+* [Map & Data Library's general page for Fire Insurance Plans](https://library.utoronto.ca/collection/fire-insurance-plans-and-atlases)
 	+ [Scanned and georeferenced Fire Insurance Plans and Atlases](https://mdl-data.library.utoronto.ca/items/show/1813)
 * [U of T's Fire Insurance Plan complete listing](https://mdlutoronto.github.io/collections/fip/) (Canada-wide)
 * [City of Toronto's Fire Insurance Plan listing](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/fire-insurance-plans/)
@@ -130,8 +130,8 @@ Mapping Resources
 
 ### Web Mapping Projects
 
-* [Ontario County Map Project](https://mdl.library.utoronto.ca/collections/mdl-projects/ontario-county-map) (nineteenth-century maps of Southern Ontario, with names of owners of specific plots)
-* [Don Valley Historical Mapping Project](https://mdl.library.utoronto.ca/collections/mdl-projects/don-valley) (historical businesses along the Don River)
+* [Ontario County Map Project](https://library.utoronto.ca/project/ontario-historical-county-maps) (nineteenth-century maps of Southern Ontario, with names of owners of specific plots)
+* [Don Valley Historical Mapping Project](https://library.utoronto.ca/project/don-river-valley-historical-mapping-project) (historical businesses along the Don River)
 * [Lost Rivers of Toronto](https://www.lostrivers.ca/disappearing.html) and [Lost River Walks](https://lostrivers.ca/)
 
 ### Other mapping materials
@@ -219,8 +219,8 @@ Demographic Statistics
 
 ### Census Data
 
-* [General guide to numeric data](https://mdl.library.utoronto.ca/collections/numeric-data)
-* [Canadian census data by year](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada)
+* [General guide to numeric data](https://library.utoronto.ca/collection/quantitative-data)
+* [Canadian census data by year](https://library.utoronto.ca/project/canadian-census-data-discovery-partnership-ccddp)
 * [CHASS Census Analyser](https://dc1.chass.utoronto.ca/census/index.html) and [Census Analyser Tutorial](https://mdlutoronto.github.io/chass-extracting-downloading-data-canadian-census/)
 * [Statistics Canada data tables for 2021](https://www12.statcan.gc.ca/datasets/index-eng.cfm?Temporal=2021)
 * Feel free to [request help](https://library.utoronto.ca/contact-us/data-maps) from the Map & Data Library
@@ -235,4 +235,4 @@ Other Guides and Resources
 
 * [Exporting GIS to CAD format](https://mdlutoronto.github.io/arcgis-pro-converting-gis-data-to-autocad/) (Rhino; Illustrator; AutoCAD)
 
-**Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Data Format:** [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps), [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | **Data Format:** [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps), [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
